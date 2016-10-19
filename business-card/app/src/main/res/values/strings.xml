@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">business-card</string>
+    <string name="app_name">Marian Nessus IT</string>
+    <!--Date Firma-->
+    <string name="firma_nume">SC MARIAN SOFTWARE SRL</string>
+    <string name="firma_moto">IT! You name IT, we'lll do IT!</string>
+    <!--Date Persoana-->
+    <string name="persoana_nume">Marian Scurtu</string>
+    <string name="persoana_pozitie">Director Tehnic</string>
+    <string name="persoana_mail">marian@nessus.ro</string>
+    <string name="persoana_telefon_1">0720 211 801</string>
+    <string name="persoana_telefon_2">0765 768 526</string>
 </resources>
